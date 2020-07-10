@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hello!
 
+I'm Patrick, a software engineering manager who's been in web development for a minute (my first job was at Amazon, when it still only sold books
+!).
 <!--
 **patrick-minton/patrick-minton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
